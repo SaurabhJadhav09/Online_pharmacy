@@ -1,7 +1,7 @@
 # CT-PHARMA
 Online Pharmacy Website using HTML,css, and Javascript with Database connectivity 
 
-(screenshots/Screenshot 1.png)
+
 
 # HOW to connect to Database
  1) DOWNLOAD "XAMPP" software
